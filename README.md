@@ -35,6 +35,7 @@ This library provides precise timing control using **Pin Change Interrupts (PCIN
 
 ## Library Structure
 
+```c
 DHT_11/
 ├── src/
 │   ├── DHT_11.c              # Core implementation
@@ -54,6 +55,7 @@ DHT_11/
 ├── LICENSE
 ├── README.md                 # Repo overview (quick start)
 └── CHANGELOG.md
+```
 
 ## File Structure
 
