@@ -37,13 +37,13 @@ This library provides precise timing control using **Pin Change Interrupts (PCIN
 
 DHT_11/
 └──src/
-    ├── DHT_11.c        # Core implementation
-    ├── DHT_11.h        # Public API
-    ├── reg_defs_t.h    # Register abstraction macros (dependency)
-    └── USART_D.h       # My custom built USART Library
-└── examples/
-    └── main.c      # Example usage
-└── LICENSE
+    ├── DHT_11.c        # Core implementation 
+    ├── DHT_11.h        # Public API 
+    ├── reg_defs_t.h    # Register abstraction macros (dependency) 
+    └── USART_D.h       # My custom built USART Library 
+└── examples/ 
+    └── main.c      # Example usage 
+└── LICENSE 
 
 ## File Structure
 
